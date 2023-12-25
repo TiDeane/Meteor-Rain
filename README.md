@@ -19,7 +19,7 @@ This project aims to exercise the fundamentals of the Computer Architecture area
 
 The game is controlled by the user using keys on a keyboard (actuated by mouse click), just like the one in the following figure:
 
-![Screenshot_1](https://github.com/TiDeane/Meteor-Rain/assets/120483063/bc0aebf2-e526-4704-b982-754afd36b702)
+![Screenshot_2](https://github.com/TiDeane/Meteor-Rain/assets/120483063/f793be80-473d-45a5-9dba-037c677ae903)
  
 The assignment of keys to commands is as follows:
 - Keys 0 and 2: move the rover left and right, respectively. Can be held for continuous movement;
@@ -28,7 +28,7 @@ The assignment of keys to commands is as follows:
 - D key: suspend/continue the game;
 - E key: end the game (keeps the rover's final energy visible).
 
-_Note: we were unable to implement the functionality of continuing the game after suspending it or starting a new game after the previous ends before the deadline. Suspending it in the start screen also freezes the program._
+_Note: we were unable to implement the functionality of continuing the game after suspending it, or starting a new game after the previous one ends, before the deadline. Suspending it in the start screen also freezes the program._
 
 ---
 
